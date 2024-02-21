@@ -29,7 +29,7 @@ body {
   height: calc(100dvh - 40px);
   max-height: 720px;
   border: 9px solid #060606;
-  box-shadow: 0 0 4px 2px rgb(2, 21, 119), 0 0 0 6px rgb(2, 21, 119), 0 0 0px 7px black;
+  box-shadow: 0 0 4px 2px #0b6233, 0 0 0 6px #0b6233, 0 0 0px 7px black;
 }
 
 .second-container {
@@ -94,7 +94,7 @@ body {
   margin-top: -40px;
   z-index: 1;
   padding: 10px 0 30px;
-  background: rgb(2, 21, 119);
+  background: #0b6233;
 }
 
 .titulo {
